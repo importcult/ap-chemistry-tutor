@@ -26,3 +26,6 @@ The separate Vercel project is `science-quest-grade6`; deployments are explicit 
 Based on St. Johns 2026–27 grade 6 science pacing topics and Florida benchmarks, with extra cells practice. Quarter labels are recommended organization, not a claim that every county uses the same sequence. It is a study supplement; the child's teacher's chapter and test requirements take priority. Florida statewide science assessment is grades 5 and 8, not a grade 6 statewide exam. Questions are original; no official assessment items copied.
 
 Models simplify real processes. The osmosis model assumes water can cross and solute cannot, with equal starting volumes. The hill energy model neglects friction. Accumulated-distance graphs cannot determine direction; position-time graphs can show reversals. Pip is a curated study guide, not generative AI.
+
+## Discovery crew
+Four original SVG companions (Dash, Bolt, Reef, Nova) with selectable, device-local preferences. CSS animations include idle waves, a running mission sprite, quiz celebrations, and encouraging retry poses. Animation controls persist separately from academic progress and respect prefers-reduced-motion. No paid animation service or additional runtime dependencies.
