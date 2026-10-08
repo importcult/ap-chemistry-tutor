@@ -5,8 +5,8 @@ Adapted from the Chemistry Mastery Lab design for an 11-year-old learner.
 ## Included
 - 25 lessons across five independent paths covering the four-quarter topic outline.
 - Eight cells lessons immediately available as the first path.
-- 219 original multiple-choice questions, shuffled answers, balanced unit challenges and year review.
-- 17 practice games/labs: interactive plant/animal diagrams, label challenge, organelle sorting, osmosis, hierarchy, motion graphs, forces, energy, inquiry, thermal transfer, weather/water, Earth changes, classification and body systems.
+- 245 original multiple-choice questions, shuffled answers, balanced unit challenges and year review.
+- 18 practice games/labs: a 26-idea Cells class review, interactive plant/animal diagrams, label challenge, organelle sorting, osmosis, hierarchy, motion graphs, forces, energy, inquiry, thermal transfer, weather/water, Earth changes, classification and body systems.
 - Five-question lesson quizzes: 80% unlocks the next lesson in that path.
 - Unit challenges sample two questions per lesson; year review samples one per lesson. At least 90% passes; thresholds round up to whole questions.
 - Highest scores persist in localStorage on the same browser; no accounts or cross-device sync.
@@ -29,3 +29,12 @@ Models simplify real processes. The osmosis model assumes water can cross and so
 
 ## Discovery crew
 Four original SVG companions (Dash, Bolt, Reef, Nova) with selectable, device-local preferences. CSS animations include idle waves, a running mission sprite, quiz celebrations, and encouraging retry poses. Animation controls persist separately from academic progress and respect prefers-reduced-motion. No paid animation service or additional runtime dependencies.
+
+## Class-review topic update
+The Cells path includes original explained practice aligned with all 26 distinct concepts across these two assigned review sets:
+- [Grade 6 Unit 5 Cells](https://dashboard.blooket.com/set/67f2fa31c30ee886e6a171a1) (14 entries)
+- [Unit 6 Cells](https://dashboard.blooket.com/set/62fe650df393d482100fb707) (24 entries)
+
+Five existing lessons now explain additional cell types, organelles, nutrients, protein processing/recycling, selective permeability, and active/passive transport. Ten study cards supplement the lessons. The class-review game includes every distinct topic once, with shuffled order and answers, no timer, and matching lesson help after each answer. It is practice only; existing quiz mastery requirements stay the same.
+
+New questions and cards are appended, preserving existing lesson indexes, question IDs, card indexes, saved mastery, and crew settings. Main chemistry content remains on its separate branch.
